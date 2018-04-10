@@ -1,0 +1,379 @@
+# Translation of Themes - Dulcet in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - Dulcet package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-08-26 15:23:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - Dulcet\n"
+
+#. Description of the plugin/theme
+msgid "Dulcet is a clean, simple responsive theme for WordPress."
+msgstr "Dulcet é um tema limpo, simples e responsivo para WordPress."
+
+#. Theme Name of the plugin/theme
+msgid "Dulcet"
+msgstr "Dulcet"
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page"
+msgstr "Largura total"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:33
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: template-parts/content-page.php:22 template-parts/content-single.php:51
+msgid "Pages:"
+msgstr "Páginas"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Aparentemente não pudemos encontrar o que você está procurando. Talvez uma busca ajude."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Nada foi encontrado com os termos da sua pesquisa. Tente novamente com algumas palavras-chaves diferentes."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pronto para publicar seu primeiro post? <a href=\"%1$s\">Comece aqui</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+#: search.php:20
+msgid "Search Results for: %s"
+msgstr "Resultados da pesquisa por: %s"
+
+#: inc/widgets.php:110
+msgid "ASC"
+msgstr "ASC"
+
+#: inc/widgets.php:109
+msgid "DESC"
+msgstr "DESC"
+
+#: inc/widgets.php:107
+msgid "Order"
+msgstr "Ordem"
+
+#: inc/widgets.php:104
+msgid "Random"
+msgstr "Aleatório"
+
+#: inc/widgets.php:103
+msgid "Comment count"
+msgstr "Contagem de comentários"
+
+#: inc/widgets.php:101
+msgid "Date"
+msgstr "Data"
+
+#: inc/widgets.php:99
+msgid "Order by"
+msgstr "Ordenar por"
+
+#: inc/widgets.php:94
+msgid "Number of photos"
+msgstr "Número de fotos"
+
+#: inc/widgets.php:89 inc/widgets.php:102
+msgid "Title"
+msgstr "Título"
+
+#: inc/widgets.php:31 inc/widgets.php:78
+msgid "Recent Posts"
+msgstr "Posts recentes"
+
+#: inc/widgets.php:20
+msgid "Displays custom posts."
+msgstr "Mostrar posts personalizados."
+
+#: inc/widgets.php:17
+msgid "Dulcet Recent Posts"
+msgstr "Dulcet - posts recentes"
+
+#: inc/template-tags.php:186
+msgid "Your comment is awaiting moderation."
+msgstr "Seu comentário está aguardando moderação"
+
+#: inc/template-tags.php:181
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/template-tags.php:180
+msgid "Reply"
+msgstr "Responder"
+
+#: inc/template-tags.php:179
+msgid "%1$s at %2$s"
+msgstr "%1$s às %2$s"
+
+#: inc/template-tags.php:160
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: inc/template-tags.php:160
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:131
+msgid "%1$s theme by %2$s"
+msgstr "Tema %1$s por %2$s"
+
+#: inc/template-tags.php:127
+msgid "Copyright %1$s %2$s %3$s"
+msgstr "Copyright %1$s %2$s %3$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:45
+msgid ", "
+msgstr ", "
+
+#: inc/extras.php:35
+msgid "Continue reading"
+msgstr "Continue lendo"
+
+#: inc/customizer.php:314
+msgid "Header social hover color"
+msgstr "Cor dos links de redes sociais do cabeçalho"
+
+#: inc/customizer.php:298
+msgid "Header social color"
+msgstr "Cor dos links de redes sociais"
+
+#: inc/customizer.php:281
+msgid "Menu active/hover color"
+msgstr "Cor dos links do menu quando ativos"
+
+#: inc/customizer.php:265
+msgid "Menu link color"
+msgstr "Cor dos links do menu"
+
+#: inc/customizer.php:247
+msgid "Footer widgets text color"
+msgstr "Cor do texto dos widgets do rodapé"
+
+#: inc/customizer.php:230
+msgid "Footer widgets background color"
+msgstr "Cor do fundo dos widgets de rodapé"
+
+#: inc/customizer.php:213
+msgid "Disable footer widgets"
+msgstr "Desativar widgets do rodapé"
+
+#: inc/customizer.php:207
+msgid "Number footer columns to display."
+msgstr "Número de colunas no rodapé."
+
+#: inc/customizer.php:205
+msgid "Footer Layout"
+msgstr "Layout do rodapé"
+
+#: inc/customizer.php:188
+msgid "Footer"
+msgstr "Rodapé"
+
+#: inc/customizer.php:176
+msgid "Gallery"
+msgstr "Galeria"
+
+#: inc/customizer.php:165
+msgid "Audio"
+msgstr "Áudio"
+
+#: inc/customizer.php:154
+msgid "Chat"
+msgstr "Chat"
+
+#: inc/customizer.php:143
+msgid "Link"
+msgstr "Link"
+
+#: inc/customizer.php:132
+msgid "Quote"
+msgstr "Citação"
+
+#: inc/customizer.php:121
+msgid "Video"
+msgstr "Vídeo"
+
+#: inc/customizer.php:111
+msgid "Image"
+msgstr "Imagem"
+
+#: inc/customizer.php:100
+msgid "Aside"
+msgstr "Nota"
+
+#: inc/customizer.php:89
+msgid "Standard"
+msgstr "Padrão"
+
+#: inc/customizer.php:79
+msgid "Check this box to disable post format icon."
+msgstr "Marque esta caixa para desativar o ícone de formato de post."
+
+#: inc/customizer.php:76
+msgid "Hide Post Format Icons"
+msgstr "Esconder ícone do formato do post"
+
+#: inc/customizer.php:62
+msgid "Post Format Color"
+msgstr "Cor do formato de post"
+
+#: inc/customizer.php:53
+msgid "Right Sidebar"
+msgstr "Lateral direita"
+
+#: inc/customizer.php:52
+msgid "Left Sidebar"
+msgstr "Barra Lateral na Esquerda"
+
+#: inc/customizer.php:49
+msgid "Frontpage Layout"
+msgstr "Layout da página inicial"
+
+#: inc/customizer.php:35
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/customizer.php:25
+msgid "Theme Options"
+msgstr "Opções do tema"
+
+#: header.php:36
+msgid "Skip to content"
+msgstr "Pular para o conteúdo"
+
+#. Translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:197
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "sem subset"
+
+#: functions.php:189
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "ligado"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Noto Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:185
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "ligado"
+
+#: functions.php:159
+msgid "Footer 4"
+msgstr "Rodapé 4"
+
+#: functions.php:149
+msgid "Footer 3"
+msgstr "Rodapé 3"
+
+#: functions.php:139
+msgid "Footer 2"
+msgstr "Rodapé 2"
+
+#: functions.php:129
+msgid "Footer 1"
+msgstr "Rodapé 1"
+
+#: functions.php:121
+msgid "Header Text"
+msgstr "Texto do cabeçalho"
+
+#: functions.php:113 functions.php:123 functions.php:131 functions.php:141
+#: functions.php:151 functions.php:161
+msgid "Add widgets here."
+msgstr "Adicione widgets aqui:"
+
+#: functions.php:111
+msgid "Sidebar"
+msgstr "Painel lateral"
+
+#: functions.php:58
+msgid "Social"
+msgstr "Social"
+
+#: functions.php:57
+msgid "Primary"
+msgstr "Primário"
+
+#: comments.php:97
+msgid "Submit Comment"
+msgstr "Enviar comentário"
+
+#: comments.php:96
+msgid "Leave a Comment"
+msgstr "Deixe um comentário"
+
+#: comments.php:92
+msgid "Comments are closed."
+msgstr "Comentários estão fechados."
+
+#: comments.php:57 comments.php:79
+msgid "Newer Comments"
+msgstr "Comentários mais recentes"
+
+#: comments.php:56 comments.php:78
+msgid "Older Comments"
+msgstr "Comentários mais antigos"
+
+#: comments.php:53 comments.php:75
+msgid "Comment navigation"
+msgstr "Navegação dos comentários"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentário sobre &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentários sobre &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Um comentário sobre &ldquo;%s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:52
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Tente procurar em arquivos mensais. %1$s"
+
+#: 404.php:34
+msgid "Most Used Categories"
+msgstr "Categorias mais Usadas"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que nada foi encontrado neste lugar. Quem sabe você possa tentar um dos links abaixo ou uma busca?"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Opa! A página não pode ser encontrada,"
+
+#. Author URI of the plugin/theme
+msgid "https://wpstash.com"
+msgstr "https://wpstash.com"
+
+#. Author of the plugin/theme
+msgid "WPStash"
+msgstr "WPStash"
+
+#. Theme URI of the plugin/theme
+msgid "https://wpstash.com/themes/dulcet"
+msgstr "https://wpstash.com/themes/dulcet"
